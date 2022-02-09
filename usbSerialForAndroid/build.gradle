@@ -42,9 +42,9 @@ project.afterEvaluate {
                 artifact androidSourcesJar
 
                 // values used for local maven repo, jitpack uses github release:
-                groupId 'com.github.mik3y'
+                groupId 'com.github.Glass-Imaging'
                 artifactId 'usb-serial-for-android'
-                version 'v3.5.0beta'
+                version 'v3.4.5_test'
             }
         }
     }
